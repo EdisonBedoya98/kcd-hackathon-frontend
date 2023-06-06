@@ -6,13 +6,13 @@ import { Patient } from "@/interfaces/interfaces";
 import React, { useRef, useState } from "react";
 
 const url =
-  "https://7fdd-2803-1800-400b-3161-8d35-e62-6859-455a.ngrok-free.app/records";
+  "https://d7e7-2803-1800-400b-3161-8d35-e62-6859-455a.ngrok-free.app/records";
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-gray-900">
       <div>
         <span className="text-4xl font-bold text-center text-gray-900 dark:text-white uppercase">
-          Powered by Auco.team
+          Powered By Auco.team
         </span>
       </div>
 
